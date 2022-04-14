@@ -1,0 +1,13 @@
+:root {
+    --primaryFont: 'Poppins', sans-serif;
+    /* --primaryFont: 'Montserrat', sans-serif; */
+    /* --primaryFont: 'Raleway', sans-serif; */
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+  background-color: rgb(33, 33, 33);
+}
