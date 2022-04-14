@@ -112,7 +112,7 @@ function SingleProject({
 											: logo === "fab fa-react"
 											? "react"
 											: logo === "fas fa-atom"
-											? "reudx"
+											? "redux"
 											: logo === "fas fa-database"
 											? "Mongo"
 											: logo === "fab fa-js"

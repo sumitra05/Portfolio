@@ -10,17 +10,17 @@ export const projectsData = [
 		demo: "https://apna-kickstarter.netlify.app",
 		image: "./Kickstarter.png",
 	},
-	// {
-	// 	id: 2,
-	// 	projectName: "Dineout",
-	// 	projectDesc:
-	// 		"Dineout is a table booking platform helping customers to do table booking in their favourite restaurants for free and help them get great discounts.",
-	// 	tags: ["React", "Html", "css", "javascript"],
-	// 	logos: ["fab fa-react", "fab fa-html5", "fab fa-css3", "fab fa-js"],
-	// 	code: "https://github.com/sivasangari03-G/dineout",
-	// 	demo: "https://dineout-1.netlify.app/",
-	// 	image: "https://user-images.githubusercontent.com/77038735/157720950-676d8112-42be-48bf-a42d-bcf0b0730411.PNG",
-	// },
+	{
+		id: 2,
+		projectName: "Translator App",
+		projectDesc:
+			"This app translate texts english to hindi.",
+		tags: ["Html", "css", "javascript"],
+		logos: ["fab fa-html5", "fab fa-css3", "fab fa-js"],
+		code: "https://github.com/sumitra05/Translation-app",
+		demo: "https://english-hindi-translator.netlify.app",
+		image: "./Translator.png",
+	},
 	// {
 	// 	id: 3,
 	// 	projectName: "Vacation",
