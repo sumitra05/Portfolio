@@ -13,7 +13,7 @@ function Footer() {
                 <span style={{color: theme.primary, margin: '0 0.5rem -1rem 0.5rem'}}>
                     ❤
                 </span>
-                 by Sumitra Awadhiya
+                 by Sumitra
             </p>
         </div>
     )
