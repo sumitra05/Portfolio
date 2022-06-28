@@ -75,7 +75,7 @@ function Projects() {
 					</div>
 					<div className="projects--body">
 						<div className="projects--bodyContainer">
-							{/* <button
+							<button
 								style={{
 									borderRadius: "50%",
 									width: "39px",
@@ -117,7 +117,7 @@ function Projects() {
 										/>
 									</svg>
 								)}
-							</button> */}
+							</button>
 							{projectsData
 								.slice(0 + next, 3 + next)
 								.map((project) => (
@@ -134,7 +134,7 @@ function Projects() {
 										image={project.image}
 									/>
 								))}
-							{/* <button
+							<button
 								style={{
 									borderRadius: "50%",
 									width: "39px",
@@ -174,7 +174,7 @@ function Projects() {
 										/>
 									</svg>
 								)}
-							</button> */}
+							</button>
 						</div>
 					</div>
 				</div>
