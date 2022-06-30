@@ -42,7 +42,7 @@ function Projects() {
 		},
 	}));
 
-	// const classes = useStyles();
+	useStyles();
 
 	window.addEventListener("resize", () => {
 		window.innerWidth < 993 ? setDirection(true) : setDirection(false);
